@@ -1,0 +1,30 @@
+body {
+    font-family: times new roman;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.listContainer {
+    border: 3px solid green;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+div > ul > li {
+    list-style-type: none;
+}
